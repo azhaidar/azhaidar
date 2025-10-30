@@ -1,37 +1,16 @@
 <!-- Animated Header -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=600&lines=Azmal+Haidar +|+Electrical+Engineer;Embedded+Systems+%26+Cybersecurity;Autonomous+Drone+Developer;System+Control+and+AI+Integration;Visionary+in+Tech+and+Psionics)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=600&lines=Azmal+Haidar%26+|+Electrical+Engineer;Embedded+Systems+%26+Cybersecurity;Autonomous+Drone+Developer;System+Control+and+Embedded;With+Great+Power+Comes+Great+Control)
 
 ---
 
 ### ⚙️ About Me  
-> “Precision. Strategy. Evolution.”
+> “Fast Precision”
 
 I’m **Van**, an Electrical Engineering student driven by the pursuit of mastery in:  
 - 🧠 **Embedded Systems & Control Automation**  
-- 🚀 **Autonomous Drone Systems (UAV/VTOL)**  
 - 🛡️ **Cybersecurity & Reverse Engineering**  
-- 🌍 **Global Tech Strategy & Personal Mastery**
 
 I believe in **deep focus, silent progress, and long-term impact** — building technologies that shift how humans interact with machines and intelligence.
-
----
-
-### 🔬 Currently Exploring  
-- **ROS2 + ArduPilot** for UAV autonomy  
-- **STM32** and **FreeRTOS** for real-time embedded design  
-- **C/C++ & Python** for firmware and control logic  
-- **Red Team tactics** & firmware exploitation  
-- **Multilingual Edge:** English • 日本語 (Japanese) • 中文 (Mandarin) • العربية (Arabic)
-
----
-
-### 🧩 Projects Snapshot  
-| Project | Description | Tech Stack |
-|:--|:--|:--|
-| **DroneCore VTOL** | Prototype of hybrid drone with autonomous flight and vision mapping | ROS2, ArduPilot, STM32 |
-| **SecureBoard** | Embedded keyboard firmware with keylogging detection | C++, FreeRTOS, STM32 |
-| **CTF Automation Toolkit** | Automated exploit and payload testing framework | Python, Bash, Ghidra |
-| **SmartFarm-X** | IoT system for autonomous pest control and irrigation | Arduino, MQTT, Node-RED |
 
 ---
 
@@ -45,7 +24,7 @@ Engineering is not only about code or circuits — it’s **a form of warfare th
 ### 🛰️ Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABlogger.svg&psig=AOvVaw3cLyZ9kJiwPermxmRE6q8C&ust=1761930603617000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODotJO1zJADFQAAAAAdAAAAABAE)](https://yourportfolio.com)
 
 ---
 
