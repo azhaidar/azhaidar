@@ -24,7 +24,8 @@ Engineering is not only about code or circuits — it’s **a form of warfare th
 ### 🛰️ Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABlogger.svg&psig=AOvVaw3cLyZ9kJiwPermxmRE6q8C&ust=1761930603617000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODotJO1zJADFQAAAAAdAAAAABAE)](https://yourportfolio.com)
+[![Blogspot]([![Blogspot](https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.blogspot.com)
+)](https://yourportfolio.com)
 
 ---
 
