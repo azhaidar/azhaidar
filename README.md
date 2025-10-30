@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=600&lines=Van+R%2E+|+Electrical+Engineer;Embedded+Systems+%26+Cybersecurity;Autonomous+Drone+Developer;System+Control+and+AI+Integration;Visionary+in+Tech+and+Psionics)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=600&lines=Azmal+Haidar%2E+|+Electrical+Engineer;Embedded+Systems+%26+Cybersecurity;Autonomous+Drone+Developer;System+Control+and+AI+Integration;Visionary+in+Tech+and+Psionics)
 
 ---
 
