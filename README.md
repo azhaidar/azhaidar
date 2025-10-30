@@ -23,15 +23,15 @@ Engineering is not only about code or circuits — it’s **a form of warfare th
 
 ### 🛰️ Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azhaidar)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
-[![Blogspot](https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.blogspot.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vqloopx/)  
+[![Blogspot](https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://azhaidar.blogspot.com/)
 
 
 ---
 
 ### ⚡ GitHub Stats  
-![Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=azhaidar&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azhaidar&layout=compact&theme=tokyonight)
 
 ---
 
