@@ -1,39 +1,61 @@
-<!-- Header animasi -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=435&lines=Hi+There!+👋;I'm+Azlan+from+ITS;IoT+and+Embedded+Engineer;AI+Enthusiast;Tech+Innovator!)
+<!-- Animated Header -->
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2B2&width=600&lines=Van+R%2E+|+Electrical+Engineer;Embedded+Systems+%26+Cybersecurity;Autonomous+Drone+Developer;System+Control+and+AI+Integration;Visionary+in+Tech+and+Psionics)
 
 ---
 
-### 💡 About Me
-🎓 Final-year student at **Institut Teknologi Sepuluh Nopember (ITS)**  
-💻 Passionate about **IoT systems**, **machine learning**, and **embedded development**  
-🚀 Currently working on smart devices that connect **without the internet**  
-🧠 Always curious about how technology can make everyday life smarter  
+### ⚙️ About Me  
+> “Precision. Strategy. Evolution.”
+
+I’m **Van**, an Electrical Engineering student driven by the pursuit of mastery in:  
+- 🧠 **Embedded Systems & Control Automation**  
+- 🚀 **Autonomous Drone Systems (UAV/VTOL)**  
+- 🛡️ **Cybersecurity & Reverse Engineering**  
+- 🌍 **Global Tech Strategy & Personal Mastery**
+
+I believe in **deep focus, silent progress, and long-term impact** — building technologies that shift how humans interact with machines and intelligence.
 
 ---
 
-### 🔧 Tech Stack
-**Languages:**  
-`C` | `Python` | `JavaScript` | `C++` | `Matlab`  
-
-**Frameworks & Tools:**  
-`NodeMCU` | `ESP32` | `Raspberry Pi` | `TensorFlow Lite` | `Flask` | `Firebase`  
-
-**Other Skills:**  
-IoT Protocols (MQTT, LoRa, BLE) | Data Visualization | PCB Design (KiCad) | Git  
+### 🔬 Currently Exploring  
+- **ROS2 + ArduPilot** for UAV autonomy  
+- **STM32** and **FreeRTOS** for real-time embedded design  
+- **C/C++ & Python** for firmware and control logic  
+- **Red Team tactics** & firmware exploitation  
+- **Multilingual Edge:** English • 日本語 (Japanese) • 中文 (Mandarin) • العربية (Arabic)
 
 ---
 
-### 📈 GitHub Stats
-![Azlan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+### 🧩 Projects Snapshot  
+| Project | Description | Tech Stack |
+|:--|:--|:--|
+| **DroneCore VTOL** | Prototype of hybrid drone with autonomous flight and vision mapping | ROS2, ArduPilot, STM32 |
+| **SecureBoard** | Embedded keyboard firmware with keylogging detection | C++, FreeRTOS, STM32 |
+| **CTF Automation Toolkit** | Automated exploit and payload testing framework | Python, Bash, Ghidra |
+| **SmartFarm-X** | IoT system for autonomous pest control and irrigation | Arduino, MQTT, Node-RED |
 
 ---
 
-### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOURMAIL@gmail.com)
+### 🧠 Philosophy  
+> “Move quietly. Build relentlessly. Let results echo.”
+
+Engineering is not only about code or circuits — it’s **a form of warfare through creation**, where precision and patience shape reality.
 
 ---
 
-✨ _"Building future-ready tech, one line of code at a time."_ ✨
+### 🛰️ Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+---
+
+### ⚡ GitHub Stats  
+![Van's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+> “Everything that kills me makes me feel alive.”  
+> — *A creed for builders who dare to think beyond limits.*
+
+
